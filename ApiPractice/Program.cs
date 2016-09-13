@@ -10,6 +10,7 @@ namespace ApiPractice
     {
         static void Main(string[] args)
         {
+            WeatherApiClient.GetWeatherForecast();
         }
     }
 }
